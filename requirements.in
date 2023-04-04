@@ -1,4 +1,7 @@
 python-dotenv
 
+nba_api
 
 rich-click
+requests
+tqdm
